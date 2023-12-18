@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    position: fixed;
+    z-index: 1;
+}
+.collapse{
+    margin-left: 350px;
+}
+.navbar{
+    background-color: rgb(40, 40, 43);
+}
+.footer{
+    background-color: rgb(47, 168, 243);
+    color: black;
+}
+.nav-item{
+    font-size: 18px;
+    margin-left: 20px;
+}
+.img1{
+    margin-top: 10vh;
+    border-radius: 50%;
+}
+.name{
+    font-size: 65px;
+}
+.work{
+    font-size: 37px;
+    padding-bottom: 130px;
+}
+
+.para{
+    font-size: 22px;
+    line-height: 3;
+}
+ul li{
+    list-style: none;
+    
+}
+ul li a{
+    text-decoration: none;
+    color: black;
+}
+.head{
+    font-size: 30px;
+    text-align: center;
+}
+.para{
+    font-size: 15px;
+}
+.para2{
+    font-size: 15px;
+}
+.contain{
+    border: 10px solid rgb(47, 168, 243);;
+    border-style: groove;
+   margin-top: 50px;
+   padding: 20px;
+}
+
+/* servises */
+
+
+.card-body{
+    border: 1px solid rgb(47, 168, 243);;
+    line-height: 3;
+}
+.imge{
+    margin-left: 120px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+
+
+
